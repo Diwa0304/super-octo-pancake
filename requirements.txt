@@ -1,0 +1,12 @@
+dvc
+dvc[gcs]
+dvc_gs
+mlflow
+pandas
+numpy
+fastapi
+scikit-learn
+joblib
+pytest
+python-dotenv
+pathlib
