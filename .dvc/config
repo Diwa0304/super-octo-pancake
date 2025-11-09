@@ -1,4 +1,0 @@
-[core]
-    remote = gcsremote
-['remote "gcsremote"']
-    url = gs://mlops-week-4-tough-study-473007-a5
